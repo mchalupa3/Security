@@ -1,0 +1,2 @@
+C:\Users\mc137344\AppData\Local\Temporary Projects\SecurityProgram\bin\Debug\SecurityProgram.exe.config
+C:\Users\mc137344\Desktop\C#\Security\SecurityProgram\SecurityProgram\bin\Debug\SecurityProgram.exe.config
