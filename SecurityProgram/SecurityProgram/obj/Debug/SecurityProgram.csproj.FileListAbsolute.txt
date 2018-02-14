@@ -1,2 +1,10 @@
 C:\Users\mc137344\AppData\Local\Temporary Projects\SecurityProgram\bin\Debug\SecurityProgram.exe.config
 C:\Users\mc137344\Desktop\C#\Security\SecurityProgram\SecurityProgram\bin\Debug\SecurityProgram.exe.config
+C:\Users\mc137344\Desktop\C#\Security\SecurityProgram\SecurityProgram\bin\Debug\SecurityProgram.exe
+C:\Users\mc137344\Desktop\C#\Security\SecurityProgram\SecurityProgram\bin\Debug\SecurityProgram.pdb
+C:\Users\mc137344\Desktop\C#\Security\SecurityProgram\SecurityProgram\obj\Debug\SecurityProgram.csprojResolveAssemblyReference.cache
+C:\Users\mc137344\Desktop\C#\Security\SecurityProgram\SecurityProgram\obj\Debug\SecurityProgram.Form1.resources
+C:\Users\mc137344\Desktop\C#\Security\SecurityProgram\SecurityProgram\obj\Debug\SecurityProgram.Properties.Resources.resources
+C:\Users\mc137344\Desktop\C#\Security\SecurityProgram\SecurityProgram\obj\Debug\SecurityProgram.csproj.GenerateResource.Cache
+C:\Users\mc137344\Desktop\C#\Security\SecurityProgram\SecurityProgram\obj\Debug\SecurityProgram.exe
+C:\Users\mc137344\Desktop\C#\Security\SecurityProgram\SecurityProgram\obj\Debug\SecurityProgram.pdb
